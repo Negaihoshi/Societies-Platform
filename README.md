@@ -1,4 +1,4 @@
-RentalPlatform
+Societies Platform
 ==============
 
-A Simple Rental Platform
+A Simple Societies Platform
